@@ -1,0 +1,303 @@
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "B2qk2r/Q2b1pp1/4pb1p/2p1nn2/2P5/P3P3/1B1P2PP/RN3RK1 w k - 0 16"]
+[SetUp "1"]
+[Id "3"]
+[Time "3.85 seconds"]
+
+16. Ra2 O-O ( 16... Nh4 ) ( 16... Ng4 ) 17. Be4 Qe7 ( 17... Bg5 ) ( 17... Ng4 ) 18. Qc7 Rc8 ( 18... Rd8 ) ( 18... Bg5 ) 19. Qb6 Nd6 ( 19... Rd8 ) ( 19... Qd8 ) 20. d3 Nxe4 ( 20... Nb7 ) ( 20... Qf8 ) 21. dxe4 Ba4 ( 21... Rf8 ) ( 21... Rf8 ) 22. Nd2 Qe8 ( 22... Kf8 ) ( 22... Bb3 ) 23. Ba1 Qd7 ( 23... Bd8 ) ( 23... Nd3 ) 24. Qb1 Rd8 ( 24... Nc6 ) ( 24... Qd6 ) 25. Bxe5 Bxe5 ( 25... Qd6 ) ( 25... Bb3 ) *
+2rq2k1/3b1pp1/1Q2pb1p/2p1nn2/2P1B3/P3P3/RB1P2PP/1N3RK1 w - - 8 20
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2k2/2qp1pp1/p1n1pn1r/1pN4p/4P3/P1N4P/1PPQBPP1/2KR3R w - - 1 16"]
+[SetUp "1"]
+[Id "4"]
+[Time "2.52 seconds"]
+
+16. g4 hxg4 ( 16... Ke8 ) ( 16... Ke8 ) 17. Qe3 d6 ( 17... Nd8 ) ( 17... Rg6 ) 18. Nd3 Rxh3 ( 18... Bb7 ) ( 18... Nxe4 ) 19. Rxh3 gxh3 ( 19... Ne5 ) ( 19... Nd4 ) 20. Qxh3 Bb7 ( 20... Ne8 ) ( 20... Nd8 ) 21. Qh8+ Ng8 ( 21... Ke7 ) ( 21... Ng8 ) 22. Rg1 g6 ( 22... Nd4 ) ( 22... f6 ) 23. Kb1 Re8 ( 23... Qb8 ) ( 23... Qe7 ) 24. f4 Qb6 ( 24... Qd8 ) ( 24... Rc8 ) 25. Rg4 Qe3 ( 25... Ne7 ) ( 25... b4 ) *
+r1b1k3/2qp1pp1/p1n1pn1r/1pN4p/4P1P1/P1N4P/1PPQBP2/2KR3R w - - 1 17
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/3n1p2/pp1p2pB/2pP4/1P2Q3/3B1N1P/P1P2PP1/b3R1K1 w - - 0 16"]
+[SetUp "1"]
+[Id "5"]
+[Time "2.42 seconds"]
+
+16. Bxf8 Kxf8 ( 16... Kh7 ) ( 16... Bc3 ) 17. Rxa1 b5 ( 17... Qe7 ) ( 17... f5 ) 18. Qe3 Kg7 ( 18... f6 ) ( 18... Kg8 ) 19. Re1 Qf6 ( 19... Qh4 ) ( 19... Qf8 ) 20. Qe8 c4 ( 20... Qg5 ) ( 20... Qh4 ) 21. Bf1 Nb6 ( 21... Nf8 ) ( 21... Nf8 ) 22. Qc6 Rb8 ( 22... Qf5 ) ( 22... Kh7 ) 23. c3 Bf5 ( 23... Qe5 ) ( 23... Kh7 ) 24. Nd4 Na4 ( 24... Bxh3 ) ( 24... a5 ) 25. Nxf5+ Qxf5 ( 25... Kh7 ) ( 25... Kh7 ) *
+r1bq1Bk1/3n1p2/pp1p2p1/2pP4/1P2Q3/2bB1N1P/P1P2PP1/4R1K1 w - - 1 17
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r4b1r/1pp1pkpp/5q2/p2p1P2/8/2P5/PP1BQ1PP/2KR3R w - - 2 16"]
+[SetUp "1"]
+[Id "6"]
+[Time "3.45 seconds"]
+
+16. h4 Kg8 ( 16... Ra7 ) ( 16... Qh6 ) 17. Qd3 Rd8 ( 17... b6 ) ( 17... Qxf5 ) 18. h5 d4 ( 18... g5 ) ( 18... Rb8 ) 19. Qc4+ Qf7 ( 19... Rd5 ) ( 19... Rd5 ) 20. Qa4 Qxf5 ( 20... h6 ) ( 20... Qe6 ) 21. cxd4 b5 ( 21... c5 ) ( 21... b5 ) 22. Qxa5 h6 ( 22... Qe4 ) ( 22... Qg6 ) 23. Qc3 g5 ( 23... Qg4 ) ( 23... Ra8 ) 24. Rhf1 Qd5 ( 24... e5 ) ( 24... Kh7 ) 25. a3 Bg7 ( 25... Qxd4 ) ( 25... Qd6 ) *
+r4bkr/2p1p1pp/1p3q2/p2p1P2/7P/2PQ4/PP1B2P1/2KR3R w - - 0 18
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rnbqk2r/1p2p1b1/7n/pPp1Pp1p/2P2Pp1/8/PBN1B1PP/RN2QRK1 w kq - 2 16"]
+[SetUp "1"]
+[Id "7"]
+[Time "4.28 seconds"]
+
+16. Nc3 e6 ( 16... b6 ) ( 16... Kd7 ) 17. Na4 Nd7 ( 17... Bf6 ) ( 17... Qe7 ) 18. Ne3 Rb8 ( 18... Rh7 ) ( 18... Qh4 ) 19. b6 Nxb6 ( 19... g3 ) ( 19... O-O ) 20. Nxc5 Bf8 ( 20... Qd3 ) ( 20... Bf8 ) 21. Rd1 Qc7 ( 21... a4 ) ( 21... Qd5 ) 22. Nd3 Nxc4 ( 22... Nd5 ) ( 22... Qd6 ) 23. Nxc4 Qxc4 ( 23... Qxc4 ) ( 23... h4 ) 24. Rc1 Qe4 ( 24... Bg7 ) ( 24... Rg8 ) 25. Rc7 Bd7 ( 25... b5 ) ( 25... Kd8 ) *
+1rbqkb1r/1p6/1n2p2n/2N1Pp1p/p1P2Pp1/4N3/PB2B1PP/3RQRK1 w k - 0 22
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn2k2r/1bppnp2/p6p/3P4/2B1PQ2/2q1B2N/P5PP/R3K2R w KQkq - 0 16"]
+[SetUp "1"]
+[Id "8"]
+[Time "2.41 seconds"]
+
+16. Ke2 Qc2+ ( 16... Qxc4+ ) ( 16... Qf6 ) 17. Kf3 Qxc4 ( 17... c5 ) ( 17... Qxc4 ) 18. Rhc1 Qa4 ( 18... O-O ) ( 18... Ng6 ) 19. Rxc7 Ng6 ( 19... f6 ) ( 19... Qxa2 ) 20. Qd6 Nh4+ ( 20... Qc4 ) ( 20... f6 ) 21. Ke2 Qb5+ ( 21... Qc6 ) ( 21... Nf3 ) 22. Kf2 Qb2+ ( 22... Qxd5 ) ( 22... a5 ) 23. Kg3 Qxa1 ( 23... Qb4 ) ( 23... Bc8 ) 24. Rxb7 Qe1+ ( 24... f6 ) ( 24... Qf6 ) 25. Bf2 Rg8+ ( 25... Qb1 ) ( 25... Qd1 ) *
+rn2k2r/1bppnp2/p6p/3P4/2B1PQ2/2q1B2N/P5PP/R3K2R w KQkq - 0 16
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1rb1k2r/1p2pp1p/p1np1bp1/8/1P2P3/q1N3P1/3QNPBP/2R2RK1 w k - 0 16"]
+[SetUp "1"]
+[Id "9"]
+[Time "2.31 seconds"]
+
+16. Nd5 O-O ( 16... h5 ) ( 16... Qc3 ) 17. Nd4 Nxd4 ( 17... Kh8 ) ( 17... Bg4 ) 18. Nxf6+ exf6 ( 18... Kg7 ) ( 18... exf6 ) 19. Qxd4 Bd7 ( 19... Qa1 ) ( 19... Kh8 ) 20. h4 h5 ( 20... Ba4 ) ( 20... Rfc8 ) 21. Rfd1 Rbe8 ( 21... Kg7 ) ( 21... Rbd8 ) 22. Ra1 Qb3 ( 22... Bf5 ) ( 22... Bg4 ) 23. Qxf6 Bg4 ( 23... Rc8 ) ( 23... Rxe4 ) 24. Rab1 Qa2 ( 24... Kh7 ) ( 24... Qe3 ) 25. f3 Qe6 ( 25... Be6 ) ( 25... b6 ) *
+1rb1k2r/1p2pp2/p1np1bp1/3N3p/1P2P3/q5P1/3QNPBP/2R2RK1 w k - 0 17
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bq1rk1/1p2bpp1/p1n1p3/2ppP1p1/2P2P2/P2P2PP/1P3QB1/RNB1R1K1 w - - 3 16"]
+[SetUp "1"]
+[Id "10"]
+[Time "3.80 seconds"]
+
+16. Nc3 Nd4 ( 16... Nb8 ) ( 16... g4 ) 17. cxd5 exd5 ( 17... f5 ) ( 17... Nc6 ) 18. Nxd5 Be6 ( 18... f5 ) ( 18... Bd6 ) 19. Nxe7+ Qxe7 ( 19... Qxe7 ) ( 19... Qxe7 ) 20. Be3 gxf4 ( 20... Bc4 ) ( 20... Rac8 ) 21. gxf4 Bf5 ( 21... Qc7 ) ( 21... f5 ) 22. b4 Rac8 ( 22... Nc2 ) ( 22... Qe8 ) 23. bxc5 Nb3 ( 23... Qd8 ) ( 23... Qe6 ) 24. d4 Nxa1 ( 24... Qf6 ) ( 24... Rc6 ) 25. Rxa1 Rc6 ( 25... Bxh3 ) ( 25... Qd6 ) *
+r4rk1/1pq2pp1/p3b3/2p1P3/3n1P2/P2PB2P/1P3QB1/R3R1K1 w - - 1 22
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bnkb1r/2pqnpp1/1p2p2p/3pP3/P2P3P/P2B1NP1/2P1QP2/RNB2K1R w kq - 1 16"]
+[SetUp "1"]
+[Id "11"]
+[Time "2.64 seconds"]
+
+16. h5 Bb7 ( 16... Qxa4 ) ( 16... Nec6 ) 17. Nc3 c5 ( 17... Rb8 ) ( 17... Rxa4 ) 18. Bb5 Nec6 ( 18... Qxb5 ) ( 18... Nc8 ) 19. Nd1 Be7 ( 19... Ba6 ) ( 19... Bc8 ) 20. Ne3 Bc8 ( 20... Nb8 ) ( 20... c4 ) 21. c3 Qc7 ( 21... Bg5 ) ( 21... Rb8 ) 22. Kg2 Bd7 ( 22... Rxa4 ) ( 22... Bd7 ) 23. Rb1 Nb7 ( 23... f6 ) ( 23... Nxd4 ) 24. Bd2 Nba5 ( 24... Rf8 ) ( 24... Rf8 ) 25. Nh4 Bg5 ( 25... Bxh4 ) ( 25... Qxe5 ) *
+r1bnkb1r/2p1npp1/1p2p2p/3pP2P/q2P4/P2B1NP1/2P1QP2/RNB2K1R w kq - 0 17
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b1k1r1/1ppn1p2/3p2pp/p2P2q1/3QP1P1/P1N4P/1PP2P2/1K1R1B1R w q - 5 16"]
+[SetUp "1"]
+[Id "12"]
+[Time "5.32 seconds"]
+
+16. f3 Qf6 ( 16... f5 ) ( 16... Qe7 ) 17. Qd2 Kd8 ( 17... c6 ) ( 17... Ne5 ) 18. Bb5 g5 ( 18... Nf8 ) ( 18... Ke8 ) 19. Qe3 Ne5 ( 19... Rb8 ) ( 19... Qe5 ) 20. Rhf1 Qf4 ( 20... Qe6 ) ( 20... Qg6 ) 21. Qf2 Ng6 ( 21... Ng6 ) ( 21... Be6 ) 22. Rd3 Qe5 ( 22... Qc1+ ) ( 22... Rf8 ) 23. h4 Qf6 ( 23... c6 ) ( 23... Qxe4 ) 24. a4 Ke7 ( 24... Nf4 ) ( 24... Nxh4 ) 25. Ne2 gxh4 ( 25... Nf8 ) ( 25... Kf8 ) *
+r1bk2r1/1pp2p2/3p1q1p/pB1P2p1/P3P1Pn/2NR1P2/1PP2Q2/1K3R2 w - - 0 25
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "3rk1nr/pp3ppp/2n5/3p4/2pP2bP/P1N2qPB/1PPQNP2/R3K2R w KQk - 3 16"]
+[SetUp "1"]
+[Id "13"]
+[Time "5.52 seconds"]
+
+16. O-O-O Nf6 ( 16... Qd3 ) ( 16... f5 ) 17. Nf4 Bxh3 ( 17... Be6 ) ( 17... Bc8 ) 18. Rxh3 Kd7 ( 18... Qxf2 ) ( 18... Ne7 ) 19. g4 Qxg4 ( 19... Kc8 ) ( 19... b6 ) 20. Rg3 Qxh4 ( 20... Ne8 ) ( 20... Rhg8 ) 21. Rxg7 Rhg8 ( 21... h6 ) ( 21... Ke8 ) 22. Rxf7+ Kc8 ( 22... Kd6 ) ( 22... Kc8 ) 23. Qe3 Kb8 ( 23... Qh2 ) ( 23... Nxd4 ) 24. Ne6 Rde8 ( 24... b5 ) ( 24... Rg2 ) 25. f3 Rg6 ( 25... Rg1 ) ( 25... Qg3 ) *
+2kr2r1/pp3R1p/5n2/3p4/2pn1N1q/P1N1Q3/1PP2P2/2KR4 w - - 0 24
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rq2kbnr/3bpp2/1p1pn1p1/pP5p/2P1P3/PNN1B3/2Q1BPPP/3RK2R w Kkq - 3 16"]
+[SetUp "1"]
+[Id "14"]
+[Time "4.10 seconds"]
+
+16. Na4 Bh6 ( 16... Bg7 ) ( 16... Bc6 ) 17. e5 Bxe3 ( 17... Qa7 ) ( 17... f6 ) 18. exd6 Bg5 ( 18... Ng7 ) ( 18... Qxd6 ) 19. c5 exd6 ( 19... Nh6 ) ( 19... Bf4 ) 20. Nxb6 Nxc5 ( 20... Be7 ) ( 20... Ke7 ) 21. Nxa8 Qxa8 ( 21... Bh6 ) ( 21... Na6 ) 22. O-O Ne6 ( 22... Be6 ) ( 22... Qf3 ) 23. Rxd6 Nf6 ( 23... Nf6 ) ( 23... Bf6 ) 24. Rfd1 O-O ( 24... Rg8 ) ( 24... Nd5 ) 25. Rxd7 Nxd7 ( 25... Qa7 ) ( 25... Bh6 ) *
+rq4nr/3bkp2/1N1pn1p1/pPP3bp/8/PN6/2Q1BPPP/3RK2R w K - 1 21
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "2k1rb1r/1ppb1pp1/p6p/2p1p3/Q3Pq2/2PP1N1P/PP1N1PP1/1K1RR3 w - - 6 16"]
+[SetUp "1"]
+[Id "15"]
+[Time "2.32 seconds"]
+
+16. Qb3 Qf6 ( 16... f6 ) ( 16... Qf6 ) 17. Nc4 h5 ( 17... Qxf3 ) ( 17... g5 ) 18. a3 Be6 ( 18... c6 ) ( 18... Bb5 ) 19. Qa4 Bd7 ( 19... Rh7 ) ( 19... Bxh3 ) 20. Qc2 Bb5 ( 20... Qf4 ) ( 20... g6 ) 21. Ne3 Qe6 ( 21... b6 ) ( 21... Ba4 ) 22. Nd5 Bd6 ( 22... Qf6 ) ( 22... c4 ) 23. d4 Kb8 ( 23... Be7 ) ( 23... Bc6 ) 24. c4 Bc6 ( 24... Qd7 ) ( 24... Ka7 ) 25. Nxc7 Bxc7 ( 25... Qh6 ) ( 25... f5 ) *
+2k1rb1r/1ppb2p1/p4p1p/2p1p3/4Pq2/1QPP1N1P/PP1N1PP1/1K1RR3 w - - 0 17
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r2kb1r/2pq1ppp/4p3/p1pnP3/3P4/5N2/PP3PPP/R1BRQ1K1 w k - 3 16"]
+[SetUp "1"]
+[Id "16"]
+[Time "2.41 seconds"]
+
+16. Qxa5 Qb5 ( 16... Rb3 ) ( 16... Qa4 ) 17. Qxb5+ Rxb5 ( 17... Rxb5 ) ( 17... c6 ) 18. b3 Be7 ( 18... Rb7 ) ( 18... Rb7 ) 19. Be3 cxd4 ( 19... Kf8 ) ( 19... f6 ) 20. Nxd4 Rb7 ( 20... Nf4 ) ( 20... h5 ) 21. a4 Kd7 ( 21... h5 ) ( 21... Kd8 ) 22. Rac1 f6 ( 22... h6 ) ( 22... Rf8 ) 23. exf6 Bxf6 ( 23... h6 ) ( 23... Nc3 ) 24. g3 g6 ( 24... Bh4 ) ( 24... Nb4 ) 25. Rd3 Bxd4 ( 25... Re8 ) ( 25... c5 ) *
+1r2kb1r/2p2ppp/4p3/Q1pnP3/q2P4/5N2/PP3PPP/R1BR2K1 w k - 1 17
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1bk3r/np2pBb1/p1ppPn1p/3q1P2/8/1NP5/PP4P1/R1BQK1NR w KQ - 0 16"]
+[SetUp "1"]
+[Id "17"]
+[Time "5.47 seconds"]
+
+16. Qc2 b6 ( 16... Qe4+ ) ( 16... Qd3 ) 17. Nf3 a5 ( 17... Bd7 ) ( 17... Ne8 ) 18. Rh4 c5 ( 18... Re8 ) ( 18... Qxb3 ) 19. Bd2 Qc6 ( 19... Ng4 ) ( 19... Qxf5 ) 20. Nc1 Bb7 ( 20... a4 ) ( 20... Kc7 ) 21. c4 b5 ( 21... Qd7 ) ( 21... Nb5 ) 22. Ne2 bxc4 ( 22... Re8 ) ( 22... Nd5 ) 23. Rxc4 Nc8 ( 23... Ne4 ) ( 23... Nc8 ) 24. Ne5 Qxg2 ( 24... Qc7 ) ( 24... Nb6 ) 25. O-O-O Nd5 ( 25... d5 ) ( 25... Ba6 ) *
+r2k3r/1b2pBb1/1nqpPn1p/p1p1NP2/2R5/8/PPQBN1P1/R3K3 w Q - 3 25
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1rbq1rk1/1p2bppp/pN1p1n2/n3p3/2B1P3/P2QBN1P/1P3PP1/2R2RK1 w - - 6 16"]
+[SetUp "1"]
+[Id "18"]
+[Time "3.65 seconds"]
+
+16. Ba2 Bd7 ( 16... h6 ) ( 16... g5 ) 17. Rfd1 Nc6 ( 17... Qc8 ) ( 17... Qc8 ) 18. Rc2 Qe8 ( 18... Bg4 ) ( 18... Kh8 ) 19. b4 Rd8 ( 19... Kh8 ) ( 19... g6 ) 20. Rcd2 Rb8 ( 20... Bxh3 ) ( 20... Ng4 ) 21. Nxd7 Qxd7 ( 21... Nxb4 ) ( 21... Nxe4 ) 22. Nh4 Nd4 ( 22... b6 ) ( 22... Nd5 ) 23. Re1 g6 ( 23... Nf5 ) ( 23... Qc8 ) 24. Bh6 Rfe8 ( 24... Ne8 ) ( 24... Qe6 ) 25. Nf3 Nxf3+ ( 25... Ra8 ) ( 25... Qa4 ) *
+1r2qrk1/1p1Nbppp/p2p1n2/4p3/1n2P3/P2QBN1P/B2R1PP1/3R2K1 w - - 0 22
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "r1b2rk1/1ppqbnp1/3p3p/p3p3/PPN1P1n1/1QP2N2/3BBPPP/R4RK1 w - - 2 16"]
+[SetUp "1"]
+[Id "19"]
+[Time "4.39 seconds"]
+
+16. Nxa5 Nf6 ( 16... b6 ) ( 16... Bg5 ) 17. Qc2 Qg4 ( 17... h5 ) ( 17... Qg4 ) 18. Nd4 Qxe4 ( 18... c5 ) ( 18... Bf5 ) 19. Bd3 Qd5 ( 19... Rb8 ) ( 19... Qf3 ) 20. Bc4 Qe4 ( 20... Ne4 ) ( 20... e4 ) 21. Bd3 Qh4 ( 21... Nh7 ) ( 21... Ne8 ) 22. Nf5 Bxf5 ( 22... Nd7 ) ( 22... Qxh2+ ) 23. Nc6 bxc6 ( 23... b6 ) ( 23... Bh7 ) 24. Bxf5 e4 ( 24... Rfb8 ) ( 24... e4 ) 25. Qd1 Ne5 ( 25... Qg5 ) ( 25... Kh8 ) *
+r4rk1/2p1bnp1/1pNp1n1p/4pb2/PP5q/2PB4/2QB1PPP/R4RK1 w - - 0 24
+
+
+
+[Event "Puzzle Generation"]
+[Site "Local"]
+[Date "2025.08.14"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "rn3rk1/1bq2pp1/2p1pn1p/pp1pN2P/1P1P4/P1PBP1P1/3N1P2/R2QKR2 w Q - 1 16"]
+[SetUp "1"]
+[Id "20"]
+[Time "4.39 seconds"]
+
+16. f4 ( 16. e4 ) ( 16. Ke2 ) 16... Qe7 ( 16... Kh8 ) ( 16... g5 ) 17. Kf2 ( 17. Ng4 ) ( 17. Qa4 ) 17... axb4 ( 17... Qd6 ) ( 17... Re8 ) 18. g4 ( 18. Qb3 ) ( 18. Ng6 ) 18... c5 ( 18... Ba6 ) ( 18... Ba6 ) 19. axb4 ( 19. Kg2 ) ( 19. Nb3 ) 19... Rxa1 ( 19... Qd8 ) ( 19... Qd8 ) 20. Qxa1 ( 20. Kf3 ) ( 20. Nc6 ) 20... Nc6 ( 20... Nh7 ) ( 20... Qc7 ) 21. Nxc6 ( 21. Rg1 ) ( 21. Qa6 ) 21... Bxc6 ( 21... Nxh5 ) ( 21... cxd4 ) 22. bxc5 ( 22. Be2 ) ( 22. Bf5 ) 22... Ra8 ( 22... Ra8 ) ( 22... Qc7 ) 23. Qb1 ( 23. Ke2 ) ( 23. Qd1 ) *
+5rk1/1b2qpp1/2N1p2p/1ppp3n/1P1P1PP1/2PBP3/3N1K2/Q4R2 w - - 0 22
+
+
+
